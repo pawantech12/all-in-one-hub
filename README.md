@@ -54,7 +54,6 @@ For updates, discussions, and support, reach out to **us**:
 
 👤 **Pawan Kumavat**  
 📧 Email: pawankumavat042@gmail.com
-
 🐦 Linkedin: [Linkedin](https://www.linkedin.com/in/pawan-kumavat-11b105297/)  
 🔗 GitHub: [pawantech12](https://github.com/pawantech12)  
 

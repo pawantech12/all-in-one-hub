@@ -1,8 +1,6 @@
 # **All-in-One Tool Hub** 🚀  
 An **open-source SaaS platform** offering a suite of essential tools for developers, designers, and general users. Built with the **MERN stack**, it includes **image tools, text tools, CSS utilities, coding utilities, and more**.  
 
----
-
 ## **🌟 Features**  
 ✅ **Authentication & OAuth** – Secure login with **Clerk (Google, GitHub, etc.)**  
 ✅ **Subscription Plans** – **Free, Advanced, and Premium** (Monthly & Yearly)  
@@ -16,8 +14,6 @@ An **open-source SaaS platform** offering a suite of essential tools for develop
    - **🛠 Utility Tools** – QR Code Generator, Password Generator, URL Shortener, Fake Data Generator  
 
 🚀 **Future Enhancements:** AI-powered tools, real-time collaboration, API marketplace, browser extensions, and PWA support.  
-
----
 
 ## **🛠 Tech Stack**  
 ### **Frontend:**  
@@ -37,8 +33,6 @@ An **open-source SaaS platform** offering a suite of essential tools for develop
 - **Backend** → Render  
 - **Analytics** → Google Analytics & Meta Pixel  
 
----
-
 ## **📌 Contribution Guidelines**  
 We welcome **contributions**! Follow these steps to contribute:  
 1. **Fork** the repo & **clone** it locally.  
@@ -47,26 +41,22 @@ We welcome **contributions**! Follow these steps to contribute:
 4. **Push** to your fork: `git push origin feature-name`  
 5. Open a **Pull Request (PR)** 🎉  
 
----
-
 ## **🐞 Issue Tracking & Discussions**  
 💡 Found a bug? Want to request a new feature? Check out our:  
 - **[Issues](https://github.com/pawantech12/all-in-one-hub/issues)**  
 - **[Discussions](https://github.com/pawantech12/all-in-one-hub/discussions)**  
 
----
-
 ## **📜 License**  
 This project is **open-source** under the **MIT License**.  
-
----
 
 ## **💬 Connect & Support**  
 For updates, discussions, and support, reach out to **us**:  
 
 👤 **Pawan Kumavat**  
 📧 Email: pawankumavat042@gmail.com 
+
 🐦 Linkedin: [Linkedin](https://www.linkedin.com/in/pawan-kumavat-11b105297/)  
+
 🔗 GitHub: [pawantech12](https://github.com/pawantech12)  
 
 

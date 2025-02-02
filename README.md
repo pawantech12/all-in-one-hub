@@ -53,9 +53,12 @@ This project is **open-source** under the **MIT License**.
 For updates, discussions, and support, reach out to **us**:  
 
 👤 **Pawan Kumavat**  
-📧 Email: pawankumavat042@gmail.com
-🐦 Linkedin: [Linkedin](https://www.linkedin.com/in/pawan-kumavat-11b105297/)  
-🔗 GitHub: [pawantech12](https://github.com/pawantech12)  
+Email: pawankumavat042@gmail.com
+Linkedin: [Linkedin](https://www.linkedin.com/in/pawan-kumavat-11b105297/)  
+GitHub: [pawantech12](https://github.com/pawantech12)  
 
+👤 **Aaryan Yerunkar**  
+Email: aaryan.yerunkar03@gmail.com
+Linkedin: [Linkedin](https://www.linkedin.com/in/aaryan-yerunkar-59aa96214)  
 
 Let’s build something amazing together! 🚀🔥  

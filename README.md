@@ -60,5 +60,6 @@ GitHub: [pawantech12](https://github.com/pawantech12)
 👤 **Aaryan Yerunkar**  
 Email: aaryan.yerunkar03@gmail.com
 Linkedin: [Linkedin](https://www.linkedin.com/in/aaryan-yerunkar-59aa96214)  
+Github: [asy2003](https://github.com/asy2003) 
 
 Let’s build something amazing together! 🚀🔥  
